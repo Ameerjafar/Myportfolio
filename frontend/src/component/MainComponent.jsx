@@ -1,5 +1,6 @@
 import { ReactTyped } from 'react-typed';
 import myImage from '../assets/myImage.jpg'
+import { LinkComponent } from './Link';
 export function MainComponent() {
     return (
         <div>

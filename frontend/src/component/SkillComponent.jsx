@@ -1,7 +1,7 @@
 export function SkillComponent() {
     return (
         <div>
-            <div className = 'font-semibold text-2xl flex justify-center p-3'>SKILLS</div>
+            <div className = 'font-semibold text-2xl flex justify-center p-3'>Tech Stacks</div>
             <div>
                 <div className = 'flex gap-3 text-center justify-center'>
                     <div className = 'w-36 p-2 bg-gray-100 hover:bg-gray-200 rounded-lg'>next.js</div>
